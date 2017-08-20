@@ -1,0 +1,13 @@
+Use Paint.Net
+
+For all the big inventory stuff
+Use 2 Layers
+First layer for the background
+Paint the bakground with the three first colours
+On background (not the black corner) use Add Noise (Intensity 15, Color Saturation 0 and Coverage 100) and Motion Blur (Angle: 0, Centred: check and Distance: 2)
+
+Secound layer for the foreground
+Paint the foreground with the three last colours
+On foreground (not the black corner) use Add Noise (Intensity 10, Color Saturation 0 and Coverage 100) and Glow (Radius: 8, Brightness: -46 and Contrast: 14) and remember to remove any outstanding glow effect
+
+For Buttons and other use Add Noise (Intensity 8, Color Saturation 0 and Coverage 100)
