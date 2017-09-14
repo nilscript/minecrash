@@ -1,1 +1,2 @@
 # Minecrash Resourcepack Workmap Latest
+This is a Minecraft Resource Pack sone by sesar54 (Me). It's uploaded here so I can work on it on multiple computers. Feel free to check on it, copy mcmeta files (if your not high on that), use it (though it's not close to a release version) and ask questions about it. Do not claim it as your own since I would be sad and the price for resourcepacks on pc are 0 $.
