@@ -3,7 +3,7 @@
 "textures": {
     "particle": "blocks/rail_normal",
     "block": "blocks/rail_normal",
-    "rail_extra": "extra/models extra/rail_extra"
+    "rail_extra": "models/blocks/rail_extra"
 },
 "elements": [ 
 {

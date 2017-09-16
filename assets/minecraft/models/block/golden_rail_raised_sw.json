@@ -3,7 +3,7 @@
 "textures": {
     "particle": "blocks/rail_golden",
     "block": "blocks/rail_golden",
-    "rail_extra": "extra/models extra/rail_extra"
+    "rail_extra": "models/blocks/rail_extra"
 },
 "elements": [ 
 {
@@ -16,7 +16,7 @@
         "up":    { "uv": [ 2, 0, 4, 16 ], "texture": "#block" },
         "north": { "uv": [ 2, 0, 4, 1 ], "rotation": 180, "texture": "#block" },
         "south": { "uv": [ 2, 0, 4, 1 ], "texture": "#block" },
-        "west":  { "uv": [ 2, 0, 2.9375, 15.9375 ], "rotation": 270, "texture": "#block" },
+        "west":  { "uv": [ 2, 0, 3, 16 ], "rotation": 270, "texture": "#block" },
         "east":  { "uv": [ 3, 0, 4, 16 ], "texture": "#block" }
     }
 },

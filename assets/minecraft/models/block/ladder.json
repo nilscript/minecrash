@@ -2,7 +2,7 @@
 "__comment": "Designed by Sesar54 with BDcraft Cubik PRO 0.96 Beta - http://bdcraft.net",
 "textures": {
     "particle": "blocks/ladder",
-    "ladder_extra": "extra/models extra/ladder_extra",
+    "ladder_extra": "models/blocks/ladder_extra",
     "texture": "blocks/ladder"
 },
 "elements": [ 
@@ -51,7 +51,7 @@
         "north": { "uv": [ 1, 12, 15, 14 ], "texture": "#texture" },
         "south": { "uv": [ 1, 12, 15, 14 ], "texture": "#texture" },
         "west":  { "uv": [ 3, 12, 4, 14 ], "texture": "#texture" },
-        "east":  { "uv": [ 11, 12, 11.875, 13.875 ], "texture": "#texture" }
+        "east":  { "uv": [ 11, 12, 12, 14 ], "texture": "#texture" }
     }
 },
 {
