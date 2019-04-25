@@ -1,12 +1,12 @@
 {
   "animation": {
-   "interpolate": true,
+    "interpolate": true,
     "frames": [
       {
         "index": 0,
         "time": 130
       },
-	  0,
+      0,
       1,
       2,
       3,
@@ -17,6 +17,9 @@
       8,
       9,
       10,
-      11,  12, 13  ]
+      11,
+      12,
+      13
+    ]
   }
 }
